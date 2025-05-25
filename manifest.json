@@ -1,0 +1,20 @@
+{
+  "name": "Painel Cosmos",
+  "short_name": "Cosmos",
+  "start_url": "/pharcal.html",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#8B5CF6",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
